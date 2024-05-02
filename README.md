@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **twvfxvr@gmail.com**
 
-- ⚡ Fun fact **Currently enrolled in NPTEL SWAYAM's "Film Appreciation" course, exploring the techniques and storytelling of visionary directors. Excited to broaden horizons and share cinematic insights.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-durga-mahesh-rajabathula-33527b280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-durga-mahesh-rajabathula-33527b280" height="30" width="40" /></a>
